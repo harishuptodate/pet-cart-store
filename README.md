@@ -43,7 +43,7 @@ PetCart is a MERN Stack online store.Dive into our platform where buyers can eff
 ## Installation
 
 ```
-git clone git@github.com:/axai-kaizoku/pet-cart-main.git
+git clone git@github.com:/harishuptodate/pet-cart-store.git
 npm install
 ```
 
